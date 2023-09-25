@@ -1,7 +1,7 @@
 Hi !My name is Taro
 ============================================================================================================================
 
-I'm a developer.
+I'm a fullstack developer.
 
 * 🌍  I'm based in Vancouver BC Canada
 * ✉️  You can contact me at [hirohatatro@gmail.com](mailto:hirohatatro@gmail.com)
