@@ -1,4 +1,4 @@
-Hi !My name is Taro
+Hi! My name is Taro
 ============================================================================================================================
 
 I'm a Software Engineer.
@@ -6,7 +6,7 @@ I'm a Software Engineer.
 * 🌍  I'm based in Vancouver BC Canada
 * ✉️  You can contact me at [hirohatatro@gmail.com](mailto:hirohatatro@gmail.com)
 
-[portfolio](https://portfolio-9ym.pages.dev/)
+[:egg: portfolio :egg:](https://portfolio-9ym.pages.dev/)
 
 <a href="https://www.github.com/hitohata" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hitohata?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
