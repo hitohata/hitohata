@@ -3,10 +3,13 @@ Hi! My name is Taro
 
 I'm a Software Engineer.
 
+[![](https://img.shields.io/badge/-@hitohata-%23181717?style=flat-square&logo=github)](https://github.com/hitohata)
+[![](https://img.shields.io/badge/-Taro%20Hirohata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taro-hirohata/)](https://www.linkedin.com/in/taro-hirohata/)
+[![](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=Cloudflare&logoColor=white&link=https://portfolio-9ym.pages.dev/)](https://portfolio-9ym.pages.dev/)
+[![](https://img.shields.io/badge/-Blog-gleen?style=flat-square&logo=dev.to&logoColor=white&link=https://www.linkedin.com/in/daniaal-nadir/)](https://www.linkedin.com/in/taro-hirohata/)
+
 * 🌍  I'm based in Vancouver BC Canada
 * ✉️  You can contact me at [hirohatatro@gmail.com](mailto:hirohatatro@gmail.com)
-
-[:egg: portfolio :egg:](https://portfolio-9ym.pages.dev/)
 
 <a href="https://www.github.com/hitohata" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hitohata?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -21,7 +24,10 @@ src="https://img.shields.io/github/followers/hitohata?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/hirohata" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/hitohata" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/taro-hirohata" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/taro-hirohata/)
+[![](https://skillicons.dev/icons?i=github)](https://github.com/hitohata)
+[![](https://skillicons.dev/icons?i=devto)](https://dev.to/hirohata)
+[![](https://skillicons.dev/icons?i=cloudflare)](https://portfolio-9ym.pages.dev/)
 
 ### Badges
 
